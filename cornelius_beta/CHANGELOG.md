@@ -2,6 +2,13 @@
 
 Les versions les plus récentes en premier. Chaque version indique le commit de la branche `beta` de Cornelius qu'elle contient.
 
+## 0.4.0-beta.ee5ca14 · 2026-11-20
+
+### Changé
+
+- Cornelius au commit [`ee5ca14`](https://github.com/lfpoulain/Cornelius/commit/ee5ca145eb27a5a3b6d972af9af94e8aa5c3d8fc) (`beta`) : [changements depuis la bêta précédente](https://github.com/lfpoulain/Cornelius/compare/55299a0ad44d526fe3f3da04522509b0a2cac288...ee5ca145eb27a5a3b6d972af9af94e8aa5c3d8fc).
+- cornelius-modules au commit [`4ed0747`](https://github.com/lfpoulain/cornelius-modules/commit/4ed0747ff3a3de6c4e9c7fe6107361964c08d8e8).
+
 ## 0.3.0-beta.55299a0 · 2026-11-12
 
 ### Changé
