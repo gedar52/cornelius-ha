@@ -38,7 +38,7 @@ RUN . /etc/cornelius-source.env \
        && test "$(git -C "$3" rev-parse HEAD)" = "$2" \
        && rm -rf "$3/.git"; \
      } \
-  && fetch https://github.com/lfpoulain/Cornelius.git "${CORNELIUS_COMMIT}" /app \
+  && fetch https://github.com/gedar52/Cornelius.git "${CORNELIUS_COMMIT}" /app \
   && fetch https://github.com/lfpoulain/cornelius-modules.git "${CORNELIUS_MODULES_COMMIT}" /opt/cornelius-modules \
   && apt-get purge -y git \
   && apt-get autoremove -y \
