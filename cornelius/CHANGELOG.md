@@ -6,7 +6,7 @@ Les versions les plus récentes en premier. Chaque version indique le commit de 
 
 ### Changé
 
-- Cornelius [0.4.1](https://github.com/gedar52/Cornelius/releases/tag/v0.4.1) (commit `5902dbd`) : les nouveautés sont dans ses notes de version.
+- Cornelius [0.4.1](https://github.com/gedar52/Cornelius/releases/tag/v0.4.1) (commit `58a184c`) : les nouveautés sont dans ses notes de version.
 - cornelius-modules au commit [`4ed0747`](https://github.com/lfpoulain/cornelius-modules/commit/4ed0747ff3a3de6c4e9c7fe6107361964c08d8e8).
 
 ## 0.4.0 · 2026-11-20
